@@ -1,0 +1,52 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+dist/
+build/
+
+# Virtual Environment
+venv/
+env/
+ENV/
+.venv
+pyvenv.cfg
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*.ipynb
+
+# Data files (큰 파일)
+*.csv
+*.tar
+*.pkl
+*.h5
+*.hdf5
+*.parquet
+
+# OS
+.DS_Store
+._*
+.bash_history
+
+# Model files
+*.pkl
+*.model
+*.h5
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp

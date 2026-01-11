@@ -50,3 +50,17 @@ pyvenv.cfg
 # Temporary files
 *.tmp
 *.temp
+
+# Presentation and documentation files (excluded from git)
+code/generate_presentation.py
+code/presentation.pdf
+code/summary.pdf
+code/test_preprocessing_methods.py
+code/test_preprocessing_improvements.py
+code/test_region_feature.py
+code/test_sigungu_split.py
+code/README_FLOOR_ANALYSIS.md
+code/README_LOCATION_FEATURES.md
+code/README_MODEL.md
+code/README_PREPROCESSING.md
+code/README_VI.md
